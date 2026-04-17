@@ -1,0 +1,4 @@
+Messi,97
+Rondaldo,88
+Neymar,85
+Mbappe,80
